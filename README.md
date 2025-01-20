@@ -52,6 +52,14 @@ A facial recognition-based attendance system that captures student images and au
 3. run recognize_faces.py to recognize the faces
 4. run attendance.py to record the attendance (to be implemented)
 
+## Data storage or folder structure
+
+create a these named in the same directory as the python files:
+1. data (to store the images of the students)
+2. database (to store the database)
+3. static (to store the static files)
+4. templates (to store the templates)    
+
 
 
 
